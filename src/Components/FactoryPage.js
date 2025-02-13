@@ -135,7 +135,7 @@ function FactoryPage() {
   // --- Get Started Button ---
   const getStartedButton = (
     <div style={{ marginTop: "1rem" }}>
-      <Link to="/order" className="get-started-button">
+      <Link to="https://docs.google.com/forms/d/e/1FAIpQLScwLK_4hVyupChWWXvQmXHIxDx-loTIvHDLUkYrSp3VwJn7cg/viewform" className="get-started-button">
         Get Started!
       </Link>
     </div>

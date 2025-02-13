@@ -3,7 +3,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 import globeImage from "../Assets/globeharvest.png";
 import sourcingImage from "../Assets/sourcingImage.png";
-//import manufacturingImage from "../Assets/manufacturingImage.png";
+import manufacturingImage from "../Assets/manufacturingImage.png";
 import logisticsImage from "../Assets/logisticsImage.png";
 
 function Home() {
@@ -217,7 +217,7 @@ function Home() {
       title: "Manufacturing",
       description:
         "Streamline production with our trusted network of manufacturers.",
-        //image: manufacturingImage,
+        image: manufacturingImage,
     },
     {
       title: "Logistics",

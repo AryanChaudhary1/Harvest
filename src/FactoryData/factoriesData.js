@@ -26,31 +26,13 @@ const factoriesData = [
     averageCostPerUnit: "$3.50",
     description: {
       luxury:
-        "Bind’s Luxury Selection features handcrafted premium chocolates presented in elegant packaging, perfect for gifting. Enjoy a smooth texture and indulgent taste.",
+        "Bind’s Luxury Selection features handcrafted premium chocolates presented in elegant packaging, making them perfect for gifting. These chocolates include jewel-like pralines, heart-shaped chocolate collections, and decorative table-box assortments. Made with 100% cocoa butter, these chocolates offer a smooth texture and indulgent taste, designed for those who appreciate fine chocolate artistry.",
       truffles:
-        "The Truffle Collection includes artisan-crafted chocolate truffles with rich ganache flavors, ideal for luxury gifts.",
+        "The Truffle Collection includes artisan-crafted milk, dark, and white chocolate truffles filled with rich ganache flavors like hazelnut, raspberry, and coffee. These truffles are carefully made using high-quality ingredients and traditional techniques, offering a velvety melt-in-your-mouth experience. Packaged in sophisticated boxes, they are ideal for both personal indulgence and luxury gifts.",
       bars:
-        "A diverse range of chocolate bars with unique flavor combinations that balance classic taste with modern innovation.",
+        "A wide range of milk, dark, and filled chocolate bars infused with flavors such as pistachio, orange, chili, and gianduja. These bars balance classic chocolate taste with modern flavors, catering to all palates. Additionally, Bind offers chocolate-covered snacks, including pretzels, marshmallows, and cornflakes, creating a delightful mix of crunchy and creamy textures.",
       general:
-        "Bind Chocolate, established in 1971, blends traditional craftsmanship with modern techniques to deliver exceptional quality and taste.",
-    },
-    images: [placeholderImage1, placeholderImage2, placeholderImage3, placeholderImage4], // Used for the detail page slideshow
-  },
-  {
-    id: "2",
-    name: "Delly",
-    category: "Chocolates",
-    subCategories: ["Energy Bars", "Protein Bars", "Fruit Bars", "Chocolates"],
-    averageCostPerUnit: "$2.75",
-    description: {
-      luxury:
-        "Delly offers a luxurious range of energy bars designed with premium ingredients and bold flavors that elevate your snack experience.",
-      truffles:
-        "Delly's artisanal truffle collection blends traditional techniques with innovative recipes to create a unique taste.",
-      bars:
-        "Their chocolate bars combine wholesome ingredients with creative flavor profiles, offering a delicious and nutritious treat.",
-      general:
-        "Delly is a forward-thinking brand merging nutrition and indulgence, delivering products that are both energizing and delectable.",
+        "Bind Chocolate, established in 1971, is a premium Turkish chocolatier that blends traditional craftsmanship with modern techniques. Inspired by European chocolate-making traditions from Germany, Switzerland, and Belgium, Bind offers a diverse range of high-quality chocolates made exclusively with cocoa butter—free from other vegetable fats. With a 14,000 m² state-of-the-art facility, Bind Chocolate ensures top-tier quality from raw material selection to final packaging. The brand is renowned for its boutique-style offerings and specialty chocolates, catering to both retail and wholesale markets. Whether indulging in a luxurious gift box or enjoying a simple chocolate bar, Bind delivers exceptional taste and quality across all its product lines.",
     },
     images: [placeholderImage1, placeholderImage2, placeholderImage3, placeholderImage4], // Used for the detail page slideshow
   },
